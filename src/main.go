@@ -1,7 +1,7 @@
 package main
 /*
-this is a simple project to refresh my goland knowledge
-
+this is a simple project to refresh my golang knowledge
+its a load blancer with round robin algorith
 
 */
 import (
